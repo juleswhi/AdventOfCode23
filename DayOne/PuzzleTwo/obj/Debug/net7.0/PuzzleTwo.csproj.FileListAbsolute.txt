@@ -1,0 +1,14 @@
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\bin\Debug\net7.0\PuzzleTwo.exe
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\bin\Debug\net7.0\PuzzleTwo.deps.json
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\bin\Debug\net7.0\PuzzleTwo.runtimeconfig.json
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\bin\Debug\net7.0\PuzzleTwo.dll
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\bin\Debug\net7.0\PuzzleTwo.pdb
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.AssemblyInfoInputs.cache
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.AssemblyInfo.cs
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.csproj.CoreCompileInputs.cache
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.dll
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\refint\PuzzleTwo.dll
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.pdb
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\PuzzleTwo.genruntimeconfig.cache
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleTwo\obj\Debug\net7.0\ref\PuzzleTwo.dll

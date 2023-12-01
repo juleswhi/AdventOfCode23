@@ -1,0 +1,14 @@
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\bin\Debug\net7.0\DayOne.exe
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\bin\Debug\net7.0\DayOne.deps.json
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\bin\Debug\net7.0\DayOne.runtimeconfig.json
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\bin\Debug\net7.0\DayOne.dll
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\bin\Debug\net7.0\DayOne.pdb
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.AssemblyInfoInputs.cache
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.AssemblyInfo.cs
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.csproj.CoreCompileInputs.cache
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.dll
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\refint\DayOne.dll
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.pdb
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\DayOne.genruntimeconfig.cache
+C:\Users\ayo mr white\Documents\GitHub\AdventOfCode23\DayOne\PuzzleOne\obj\Debug\net7.0\ref\DayOne.dll
