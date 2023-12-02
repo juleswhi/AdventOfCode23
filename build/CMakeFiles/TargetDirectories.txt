@@ -1,0 +1,3 @@
+C:/Users/ayo mr white/Documents/GitHub/AdventOfCode23/build/CMakeFiles/c.dir
+C:/Users/ayo mr white/Documents/GitHub/AdventOfCode23/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ayo mr white/Documents/GitHub/AdventOfCode23/build/CMakeFiles/ZERO_CHECK.dir
