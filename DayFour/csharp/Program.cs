@@ -62,7 +62,7 @@ foreach (var card in ScratchCard.Cards)
         ScratchCard.AddCard(card.Index + i, card.Num);
     }
 
-    Console.WriteLine("Card {0} Done, It generated, {1} cards", card.Index, card.Num * total);
+    Console.WriteLine($"Card {card.Index} Done, It generated, {card.Num * total} cards, Number of cards: {card.Num}, Number of matches: {total}");
 
 }
 
@@ -74,11 +74,6 @@ foreach (var card in ScratchCard.Cards)
 }
 
 Console.WriteLine($"Sum: {ScratchCard.Cards.Sum(x => x.Num)}");
-
-
-
-
-
 
 class ScratchCard
 {
